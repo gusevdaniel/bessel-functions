@@ -1,4 +1,4 @@
-# bessel-functions
+# Bessel functions
 
 bessel-functions.hs calculates Bessel functions: Bessel, Neumann, Hankel functions of the first and second kind.
 
